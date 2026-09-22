@@ -55,6 +55,8 @@ public class KelayakanUjian {
         System.out.println("a (tanpa kurung) : " + a);
         System.out.println("b (kurung precedence) : " + b);
         System.out.println("c (kurung digeser) : " + c);
+        System.out.println("!dispensasi : " + tidakDispensasi);
+        System.out.println("cek dipanggil : " + cek);
 
         scanner.close();
     }
